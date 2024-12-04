@@ -1,38 +1,8 @@
-# 🔥 Next.js Starter using GraphQL, MobX 🔥
-*Production-ready* `Next.js` boilerplate, `GraphQL` and `MobX` based. [Erion Classroom](https://classroom.erion.io) uses this boilerplate in production. Authentication status can be stored in cookie with `Secure`,`HttpOnly` options.
-
-## Translations
-- [한국어](/translations/ko.md) 🇰🇷
+# Next.js Starter using GraphQL 
+*Production-ready* `Next.js` boilerplate, `GraphQL` and `MobX` based. Authentication status can be stored in cookie with `Secure`,`HttpOnly` options.
 
 ## Pre-Installed
 The following libraries / Framework are pre-installed.
-
-### React.js and core framework
-- [Next.js](https://nextjs.org)
-- [TypeScript](https://www.typescriptlang.org)
-- [Babel](https://babeljs.io)
-- [Express.js](https://expressjs.com)
-
-### GraphQL
-- [Apollo Client](https://github.com/apollographql/apollo-client)
-- [React Apollo](https://github.com/apollographql/react-apollo)
-- [React Apollo Hooks](https://github.com/trojanowski/react-apollo-hooks)
-- [GraphQL Code Generator](https://graphql-code-generator.com)
-
-### State Management
-- [MobX 5](https://github.com/mobxjs/mobx)
-- [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
-
-### Styling
-- [styled-components](https://www.styled-components.com)
-
-### Asset Management
-- [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images)
-
-### Deployment
-- [Serverless Framework](https://serverless.com)
-- [AWS Lambda](https://aws.amazon.com/lambda)
-- [Dotenv](https://github.com/motdotla/dotenv)
 
 # 1. Getting Started
 ```bash
